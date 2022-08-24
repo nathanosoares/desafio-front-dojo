@@ -37,7 +37,7 @@ style.innerHTML = /*css*/ `
     color: white;
     display: flex;
     flex-direction: column;
-    width: 500px;
+    width: 400px;
     margin: 0 auto;
     padding: 20px;
     border-radius: 15px;
@@ -58,7 +58,7 @@ style.innerHTML = /*css*/ `
     background: var(--primary-color);
     border: solid 2px #fff;
     padding: 10px 8px;
-    border-radius: 5px;
+    border-radius: 10px;
     outline: none;
     margin-top: 5px;
 }
@@ -68,7 +68,7 @@ style.innerHTML = /*css*/ `
     background: white;
     color: var(--primary-color);
     padding: 10px 8px;
-    border-radius: 5px;
+    border-radius: 10px;
     border: none;
     font-weight: bold;
     width: 50%;
